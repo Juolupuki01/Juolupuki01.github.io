@@ -1,2 +1,2 @@
 # Juolupuki01.github.io
-Website for Dasio-BF-100 calculator
+Full of whatever wonderful things I make
