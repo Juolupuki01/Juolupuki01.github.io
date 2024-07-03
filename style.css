@@ -13,6 +13,17 @@ hr {
     margin-bottom: 15px;
 }
 
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
 .banner-container {
     display: flex;
 }
