@@ -1,0 +1,49 @@
+html {
+    font-size: 22px;
+    font-family: monospace;
+}
+
+body {
+    background-color: #333333;
+    color: whitesmoke;
+}
+
+hr {
+    color: whitesmoke;
+    margin-bottom: 15px;
+}
+
+.banner-container {
+    display: flex;
+}
+
+.banner-left-child {
+    width: 100%;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 15px;
+    font-size: 30px;
+    text-align: left;
+    background-color: whitesmoke;
+    color: #333333;
+}  
+
+.banner-right-child {
+    width: 10%;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 15px;
+    font-size: 30px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: #333333;
+}
+
+.section {
+    background-color: whitesmoke;
+    color: #333333;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 20px;
+    font-size: 18px;
+}
